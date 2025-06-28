@@ -1,2 +1,8 @@
-# Portfolio
-A personal portfolio showcasing my skills in frontend and backend development, featuring responsive landing pages, scalable design systems, and real-world projects powered by the MERN stack. This site highlights my ability to create modern, performance-optimized web experiences with clean UI and functional backend integration.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

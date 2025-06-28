@@ -1,0 +1,25 @@
+[{
+        "title": "AI ChatBot",
+        "imageSrc": "projects/project.png",
+        "description": "An interactive AI-powered chatbot built to simulate human-like conversations using JavaScript and a rules-based logic system. Designed as a portfolio project to demonstrate real-time interaction and frontend skills.",
+        "skills": ["JavaScript", "HTML", "CSS"],
+        "demo": "https://mahesh6688.github.io/AiChatBot/",
+        "source": "https://github.com/mahesh6688/AiChatBot"
+    },
+    {
+        "title": "Disease Prediction By Symptoms",
+        "imageSrc": "projects/project.png",
+        "description": "A machine learning project that predicts diseases based on user-input symptoms using data preprocessing and classification techniques.",
+        "skills": ["Python", "Machine Learning", "Data Preprocessing"],
+        "demo": "",
+        "source": "https://github.com/mahesh6688/Disease-Prediction-from-Symptoms-master"
+    },
+    {
+        "title": "Detecting Fake News",
+        "imageSrc": "projects/project.png",
+        "description": "A Python machine learning project designed to classify news articles as real or fake using natural language processing and classification algorithms.",
+        "skills": ["Python", "Machine Learning"],
+        "demo": "",
+        "source": "https://github.com/mahesh6688/Detection_Fake_News"
+    }
+]

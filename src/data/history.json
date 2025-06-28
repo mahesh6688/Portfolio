@@ -1,0 +1,23 @@
+[{
+        "role": "AIML Intern",
+        "organisation": "AICTE Eduskills",
+        "startDate": "July, 2024",
+        "endDate": "September, 2024",
+        "experiences": [
+            "Launched three web applications on AWS using EC2, S3, and Lambda, reducing server costs by 30%",
+            "Automated cloud deployment, cutting manual processes by 40% and speeding up release cycles"
+        ],
+        "imageSrc": "history/eduskills.png"
+    },
+    {
+        "role": "Web Full Stack Developer Intern",
+        "organisation": "Virtual Internship Program",
+        "startDate": "October, 2024",
+        "endDate": "December, 2024",
+        "experiences": [
+            "Built and launched user-friendly full-stack web apps using the MERN stack",
+            "Gained hands-on experience in both frontend and backend development"
+        ],
+        "imageSrc": "history/virtualinternship.png"
+    }
+]
